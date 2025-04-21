@@ -10,11 +10,9 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "fractol.h"
 #include <stdio.h>
 #include <stdlib.h>
-
 
 static void	malloc_error(void)
 {
